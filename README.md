@@ -20,7 +20,7 @@ pitäisi toimia.
 
 ### Releaset
 
-[SnippetManager v1.0](.)
+[SnippetManager v1.0](https://github.com/sanikk/ot-harjoitust/releases/tag/Viikko5)
 
 ## Komentorivitoiminnot
 
